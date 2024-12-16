@@ -1,5 +1,5 @@
 import random
-import matplotlib.pyplot as plt  # Corrigido: importe o pyplot
+import matplotlib.pyplot as plt
 
 # Caminhada aleatória
 position = 0
